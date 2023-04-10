@@ -1,0 +1,2 @@
+# raraCheckerLibrary
+for raraChecker
